@@ -221,20 +221,18 @@
     .article-left{
         display: flex;
         margin-left: 2rem;
-        margin-right: 2rem;
         position: relative;
         padding-top: 6rem;
         flex-direction: row;        
     }
-    
-    .article-image-left-container{
-        position: relative 
-    }
+   
 
     .article-image-left{
         width: 65vw;
+        padding-right: 2rem;
+        margin-left: auto;
+        position: relative;
     }
-
 
     .card-wrapper-left{
         display: flex;
